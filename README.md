@@ -1,2 +1,2 @@
 # sample-repo
-First sample for github
+First sample of github-repository
